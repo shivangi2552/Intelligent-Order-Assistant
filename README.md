@@ -31,9 +31,9 @@ It is designed to improve user experience by reducing manual effort and providin
 
 ## 🏗️ Tech Stack
 
-- **Frontend:** React.js / HTML / CSS (based on implementation)
-- **Backend:** Node.js / Express (if applicable)
-- **AI Model:** Gemini / OpenAI API / Custom LLM (depending on setup)
+- **Frontend:** React.js + HTML + CSS 
+- **Backend:** Node.js + Express 
+- **AI Model:** Gemini API
 - **Deployment:** Google Cloud Run
 - **Environment:** REST API based architecture
 
@@ -43,7 +43,7 @@ It is designed to improve user experience by reducing manual effort and providin
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/sevabot-ai.git
+git clone https://github.com/shivangi2552/sevabot-ai.git
 
 # Move into project directory
 cd sevabot-ai
